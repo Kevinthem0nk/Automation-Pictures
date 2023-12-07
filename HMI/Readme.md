@@ -1,1 +1,1 @@
-# Photos of HMIs I've designed in the past with Indusoft Web Studio which has become Aveva.
+# Photos of Automation/Electrical Work from the past for some reference.
